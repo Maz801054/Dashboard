@@ -1,0 +1,43 @@
+.imgSE {
+  height: 65px;
+  width: 65px;
+  border-radius: 50px;
+}
+.rowSetup {
+  width: 80vw;
+}
+.set {
+  height: 43vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  border: 1px solid whitesmoke;
+  border: none;
+}
+.Conset {
+  background: white;
+  border-radius: 10px;
+}
+.serchSetup {
+  background-color: transparent;
+}
+.colorset {
+  width: 18px;
+  height: 18px;
+}
+.lineset {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.515);
+  padding-bottom: 15px;
+}
+.lineset2 {
+  border-top: 1px solid rgba(0, 0, 0, 0.515);
+}
+.abjust {
+  position: relative;
+  left: 105px;
+  top: -3px;
+}
+li:hover {
+  background: aqua;
+  border-radius: 8px;
+  transition: 0.9 ease-in-out;
+}
